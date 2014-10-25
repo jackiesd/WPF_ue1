@@ -7,7 +7,7 @@ This is my Awsm Repo
 
 
 Look ere dude! Hello World
-...
+..$.$
 
 ## Tabel of Contents
 
