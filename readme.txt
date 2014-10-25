@@ -1,7 +1,7 @@
 This is my Awsm Repo
 ====================
 
-Look ere dude!
+Look ere dude
 
 ## Tabel of Contents
 
